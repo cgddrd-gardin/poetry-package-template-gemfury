@@ -30,7 +30,7 @@ pylint==2.6.0; python_version >= "3.5"
 pyparsing==2.4.7; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.6"
 pytest-cov==2.10.1; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.5.0")
 pytest==6.2.1; python_version >= "3.6"
-pyyaml==5.3.1; python_full_version >= "3.6.1"
+pyyaml==5.4; python_full_version >= "3.6.1"
 regex==2020.11.13; python_version >= "3.6"
 six==1.15.0; python_full_version >= "3.6.1" and python_version >= "3.5"
 toml==0.10.2; python_full_version >= "3.6.1" and python_version >= "3.6" and (python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.6")
